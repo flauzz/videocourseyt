@@ -121,3 +121,26 @@ body{
     color: darkgray;
     text-decoration: underline;
 }
+
+#corpo{
+    display: block;
+    width: 870px;
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 15px;
+}
+
+#lateral{
+    display: block;
+    width: 400px;
+    float: right;
+}
+
+#rodape{
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+#rodape p{
+    text-align: center;
+}
