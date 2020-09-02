@@ -130,6 +130,47 @@ body{
     padding-right: 15px;
 }
 
+#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+caption {
+    color: #888888;
+    font-size: 13pt;
+    font-weight: bolder;
+    text-decoration: normal;
+}
+
+span {
+    display: block;
+    float: right;
+    color: #000000;
+    font-size: 8pt;
+    margin-top: 10px;
+}
+
+td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+}
+
+.cd {
+    background-color: #cecece;
+    text-align: left;
+}
+
+.ce {
+    color: #ffffff;
+    background-color: #606060;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+}
+
 #lateral{
     display: block;
     width: 400px;
