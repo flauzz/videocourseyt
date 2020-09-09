@@ -204,6 +204,11 @@ td {
     vertical-align: top;
 }
 
+#tv-radio {
+    width: 500px;
+    margin: auto;
+}
+
 #lateral{
     display: block;
     width: 400px;
